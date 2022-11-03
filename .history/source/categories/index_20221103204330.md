@@ -1,5 +1,0 @@
----
-title: categories
-date: 2022-11-03 20:43:12
-type: "categories"
----
